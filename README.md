@@ -70,6 +70,8 @@ Explore the different pages and features of SpendWise.
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 | Technology | Purpose |
 |---|---|
 | React | Frontend user interface |
@@ -81,8 +83,9 @@ Explore the different pages and features of SpendWise.
 | Express.js | Backend API |
 | Google Gemini API | AI-powered functionality |
 | Render | Backend hosting |
-
-> The technology list should reflect the actual dependencies and services used in the repository. Remove any technologies that are not part of the current implementation.
+| Docker | Backend containerization and consistent deployment environments |
+| GitHub Actions | CI/CD automation for build, testing, and deployment workflows |
+| Git & GitHub | Version control and source code management |
 
 ## 🚀 Getting Started
 

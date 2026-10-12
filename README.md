@@ -4,9 +4,8 @@
 
 SpendWise is an AI-powered personal finance management web application designed to help users track income and expenses, analyze spending patterns, manage upcoming payments, and gain insights into their financial habits through an intuitive dashboard.
 
-🌐 **Live Demo:** [SpendWise](https://ai-finance-b81e3.web.app/)
+🌐 **Live Demo:** [SpendWise](https://ai-finance-b81e3.web.app/login)
 
-💻 **GitHub Repository:** [SpendWise](https://github.com/Karthik564125/SpendWise)
 
 ---
 
